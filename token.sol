@@ -1,19 +1,18 @@
 /**
 
-<Welcome to    💎BUSDBUNNY💎
+<Welcome to    💎BUSDREFLECTIONS💎
 
 💰 Automatic BUSD reflections 
 
-💸 Hold your BUSDBUNNY to earn Busd. 
+💸 Hold your TOKEN to earn Busd. 
 
 🚀           FAIR LAUNCH TIME :           🚀
-       03-10-2021  /   19.00 UTC 
+      -2021  /   19.00 UTC 
 
-🎥 Live Video doxxing at 100K marketcap
 💩Coins ADS READY!
 🔒Liquidity lock before launch!
 
-📝 BUSDBUNNY Tokenomics 
+📝 TOKEN Tokenomics 
 16% BUY /16% SELL
 
 💰 9% Rewards
@@ -24,8 +23,8 @@ Automatically add 1% of each transaction to liquidity pool.
 
 🖥 6% Marketing and 💸 BuyBack - This will be used to support marketing plans.
               🌍 Social Media 🌍
-Telegram :  https://t.me/BusdBunny
-Website   : www.busdbunny.com>
+Telegram :  https://t.me/
+Website   : www..com>
 
  SPDX-License-Identifier: Unlicensed
  
